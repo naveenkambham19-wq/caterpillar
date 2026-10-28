@@ -125,3 +125,4 @@ The Cat Digital Marketplace publishes a catalog of Caterpillar APIs spanning ass
 
 **Email:** info@apievangelist.com
 Naveen is the owner
+naveen is the editor
